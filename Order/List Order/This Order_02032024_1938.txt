@@ -1,0 +1,5 @@
+This Order_02/03/2024_19:38
+Product 1 : 2400
+Product 3 : 199
+Product 6 : 99
+Total Price : 2698

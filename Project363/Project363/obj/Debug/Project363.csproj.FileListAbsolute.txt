@@ -1,0 +1,29 @@
+D:\CPE 363\Project363\Project363\bin\Debug\Project363.exe.config
+D:\CPE 363\Project363\Project363\bin\Debug\Project363.exe
+D:\CPE 363\Project363\Project363\bin\Debug\Project363.pdb
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.csproj.AssemblyReference.cache
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.Form1.resources
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.Properties.Resources.resources
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.csproj.GenerateResource.cache
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.csproj.CoreCompileInputs.cache
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.exe
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.pdb
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.Page1.resources
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.Summary.resources
+D:\CPE 363\Project363\Project363\obj\Debug\Project363.btnAbout.resources
+D:\CPE363\Project363\Project363\bin\Debug\Project363.exe.config
+D:\CPE363\Project363\Project363\bin\Debug\Project363.exe
+D:\CPE363\Project363\Project363\bin\Debug\Project363.pdb
+D:\CPE363\Project363\Project363\obj\Debug\Project363.csproj.AssemblyReference.cache
+D:\CPE363\Project363\Project363\obj\Debug\Project363.btnAbout.resources
+D:\CPE363\Project363\Project363\obj\Debug\Project363.Form1.resources
+D:\CPE363\Project363\Project363\obj\Debug\Project363.Page1.resources
+D:\CPE363\Project363\Project363\obj\Debug\Project363.Properties.Resources.resources
+D:\CPE363\Project363\Project363\obj\Debug\Project363.Summary.resources
+D:\CPE363\Project363\Project363\obj\Debug\Project363.csproj.GenerateResource.cache
+D:\CPE363\Project363\Project363\obj\Debug\Project363.csproj.CoreCompileInputs.cache
+D:\CPE363\Project363\Project363\obj\Debug\Project363.exe
+D:\CPE363\Project363\Project363\obj\Debug\Project363.pdb
+D:\CPE363\Project363\Project363\bin\Debug\db_project.accdb
+D:\CPE363\Project363\Project363\bin\Debug\finalDB.mdb
+D:\CPE363\Project363\Project363\obj\Debug\Project363.AddEmployees.resources

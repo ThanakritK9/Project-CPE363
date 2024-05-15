@@ -1,0 +1,6 @@
+This Order_03/03/2024_14:16
+Product 1 : 600
+Product 2 : 450
+Product 6 : 396
+Product 3 : 597
+Total Price : 2043
